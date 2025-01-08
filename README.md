@@ -5,7 +5,8 @@ Vinícius Sorgetz Alves • 19 anos • Full Stack
 [LinkedIn](https://www.linkedin.com/in/vinicius-sorgetz-alves-b4b895340/) • viniciussorgetzalves@gmail.com • +55 (51) 99609-4775
 
 ---
-🚀 TECNOLOGIAS 
+🚀 TECNOLOGIAS
+
 (BACKEND) - Node e Express • Java • MySQL • MongoDB
 
 (FRONTEND) - HTML e CSS • JavaScript e TypeScript • React • Next
