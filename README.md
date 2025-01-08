@@ -20,4 +20,4 @@ Português (nativo) • Inglês (intermediário)
 ---
 📂 PROJETOS 
 
-Confira eles abaixo nos repositórios fixados do meu Github (com README) 👇
+Confira meus principais projetos abaixo nos repositórios fixados do meu Github (com README) 👇
