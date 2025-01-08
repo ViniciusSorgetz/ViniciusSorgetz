@@ -14,6 +14,7 @@ Vinícius Sorgetz Alves • 19 anos • Full Stack
 
 ---
 🌍 IDIOMAS 
+
 Português (nativo) • Inglês (intermediário)
 
 ---
