@@ -1,5 +1,5 @@
-🦊 Vinícius Sorgetz Alves • 19 anos • Full Stack
-
+Vinícius Sorgetz Alves • 19 anos • Full Stack
+ 
 ---
 📧 CONTATOS:
 
