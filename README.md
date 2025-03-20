@@ -13,6 +13,13 @@ Vinícius Sorgetz Alves • 19 anos • Full Stack
 (FRONTEND) - HTML e CSS • JavaScript e TypeScript • React • Next
 
 ---
+
+🪐 BEHANCE
+
+https://www.behance.net/viniciusorgetz
+
+---
+
 🌍 IDIOMAS 
 
 Português (nativo) • Inglês (intermediário)
