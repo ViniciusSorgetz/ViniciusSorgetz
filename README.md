@@ -9,4 +9,4 @@ console.log("Vinícius Sorgetz Alves • 19 anos • Full Stack");
 📂 Confira meus principais projetos abaixo nos repositórios fixados do meu Github (com README) 👇
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,bootstrap,jest,sequelize,mysql,mongodb,java,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,jest,prisma,mysql,postgres,mongodb,postman,figma)](https://skillicons.dev)
