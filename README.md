@@ -11,6 +11,6 @@ console.log("Vinícius Sorgetz Alves • 19 anos • Full Stack");
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,jest,prisma,mysql,postgres,mongodb,postman,figma,bash&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,jest,prisma,mysql,postgres,mongodb,postman,figma&perline=6" />
   </a>
 </p>
