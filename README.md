@@ -1,6 +1,6 @@
 # 🌌 Vinícius Sorgetz Alves
 
-Me chamo `🦊 Vinícius`, tenho 20 ano e sou um `🖥️ desenvolvedor full stack` atualmente procurando oportunidades na área de tecnologia. Fui aluno de informática na ***Escola Técnica Monteiro Lobato***, em Taquara. Atualmente aprimoro meus conhecimentos através do ***curso.dev*** e com ***projetos pessoais***.
+Me chamo `🦊 Vinícius`, tenho 20 anos e sou um `🖥️ desenvolvedor full stack` atualmente procurando oportunidades na área de tecnologia. Fui aluno de informática na ***Escola Técnica Monteiro Lobato***, em Taquara. Atualmente aprimoro meus conhecimentos através do ***curso.dev*** e com ***projetos pessoais***.
  
 <br>
 
