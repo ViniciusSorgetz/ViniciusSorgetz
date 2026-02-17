@@ -1,10 +1,10 @@
 # 🌌 Vinícius Sorgetz Alves
 
-Me chamo `🦊 Vinícius`, tenho 20 anos e sou um `🖥️ desenvolvedor full stack` atualmente procurando oportunidades na área de tecnologia. Fui aluno de informática na ***Escola Técnica Monteiro Lobato***, em Taquara. Atualmente aprimoro meus conhecimentos através do ***curso.dev*** e com ***projetos pessoais***.
+My name is `🦊 Vinícius`, I'm 20 years old and I'm a `🖥️ full stack developer` current searching for opportunities in the tecnology area. I was an Information Technology student at the ***Technical High School Monteiro Lobato***, at Taquara. Currently I improve my knowledge through the ***curso.dev*** and with ***personal projects***.
  
 <br>
 
-📌 Contato
+📌 Contact
  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vinicius-sorgetz-alves-b4b895340/)
 [![Gmail](https://img.shields.io/badge/Gmail-1d3091?logo=gmail&logoColor=white&style=for-the-badge)](mailto:viniciussorgetzalves@gmail.com)
@@ -13,13 +13,13 @@ Me chamo `🦊 Vinícius`, tenho 20 anos e sou um `🖥️ desenvolvedor full st
 
 <br>
 
-🚀 Tecnologias
+🚀 Tecnologies
 
 <img src="https://skillicons.dev/icons?i=ts,nest,jest,git,github,githubactions,docker,postgres,mongodb,postman,react,next,figma&perline=14" />
 
 
 ---
 
-🌍 ***Português*** (nativo) • ***Inglês*** (intermediário)
+🌍 ***Portuguese*** (native) • ***English*** (intermediary)
 
-📂 Confira meus `principais projetos` abaixo nos repositórios fixados do meu Github (com `README`) 👇
+📂 Check my `main projects` below on the fixed repositories of my GitHub (with `README`) 👇
