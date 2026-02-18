@@ -1,6 +1,6 @@
 # 🌌 Vinícius Sorgetz Alves
 
-My name is `🦊 Vinícius`, I'm 20 years old and I'm a `🖥️ full stack developer` current searching for opportunities in the tecnology area. I was an Information Technology student at the ***Technical High School Monteiro Lobato***, at Taquara. Currently I improve my knowledge through the ***curso.dev*** and with ***personal projects***.
+My name is `🦊 Vinícius`, I'm 20 years old and I'm a `🖥️ full stack developer` current searching for opportunities in the technology area. I was an Information Technology student at the ***Technical High School Monteiro Lobato***, at Taquara. Currently I improve my knowledge through the ***curso.dev*** and with ***personal projects***.
  
 <br>
 
